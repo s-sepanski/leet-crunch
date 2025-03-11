@@ -1,2 +1,2 @@
 # leet-crunch
-to crunch your leet muscles
+uses spaced learning to help make you leetcode savvy 
